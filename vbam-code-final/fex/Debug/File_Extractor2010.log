@@ -1,0 +1,68 @@
+﻿Build started 5/15/2015 18:58:06 .
+     1>Project "C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\File_Extractor2010.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\..\..\dependencies\zlib" /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\\" /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\7z_C" /ZI /nologo /W1 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 7z_C\7zAlloc.c 7z_C\7zBuf.c 7z_C\7zCrc.c 7z_C\7zCrcOpt.c 7z_C\7zDec.c 7z_C\7zIn.c 7z_C\7zStream.c 7z_C\Bcj2.c 7z_C\Bra.c 7z_C\Bra86.c 7z_C\CpuArch.c 7z_C\Lzma2Dec.c 7z_C\LzmaDec.c 7z_C\Ppmd7.c 7z_C\Ppmd7Dec.c
+         Ppmd7Dec.c
+         Ppmd7.c
+         LzmaDec.c
+         Lzma2Dec.c
+         CpuArch.c
+         Bra86.c
+         Bra.c
+         Bcj2.c
+         7zStream.c
+         7zIn.c
+         7zDec.c
+         7zCrcOpt.c
+         7zCrc.c
+         7zBuf.c
+         7zAlloc.c
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\..\..\dependencies\zlib" /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\\" /I"C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\7z_C" /ZI /nologo /W1 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt fex\Binary_Extractor.cpp fex\blargg_common.cpp fex\blargg_errors.cpp fex\Data_Reader.cpp fex\fex.cpp fex\File_Extractor.cpp fex\Gzip_Extractor.cpp fex\Gzip_Reader.cpp fex\Rar_Extractor.cpp fex\Zip7_Extractor.cpp fex\Zip_Extractor.cpp fex\Zlib_Inflater.cpp
+         Zlib_Inflater.cpp
+         Zip_Extractor.cpp
+         Zip7_Extractor.cpp
+         Rar_Extractor.cpp
+         Gzip_Reader.cpp
+         Gzip_Extractor.cpp
+         File_Extractor.cpp
+         fex.cpp
+         Data_Reader.cpp
+         blargg_errors.cpp
+         blargg_common.cpp
+         Binary_Extractor.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\tiago.diogo\Downloads\vbam-code-final\project\vs2010_mfc\Debug\File_Extractor.lib" /NOLOGO Debug\7zAlloc.obj
+         Debug\7zBuf.obj
+         Debug\7zCrc.obj
+         Debug\7zCrcOpt.obj
+         Debug\7zDec.obj
+         Debug\7zIn.obj
+         Debug\7zStream.obj
+         Debug\Bcj2.obj
+         Debug\Bra.obj
+         Debug\Bra86.obj
+         Debug\CpuArch.obj
+         Debug\Lzma2Dec.obj
+         Debug\LzmaDec.obj
+         Debug\Ppmd7.obj
+         Debug\Ppmd7Dec.obj
+         Debug\Binary_Extractor.obj
+         Debug\blargg_common.obj
+         Debug\blargg_errors.obj
+         Debug\Data_Reader.obj
+         Debug\fex.obj
+         Debug\File_Extractor.obj
+         Debug\Gzip_Extractor.obj
+         Debug\Gzip_Reader.obj
+         Debug\Rar_Extractor.obj
+         Debug\Zip7_Extractor.obj
+         Debug\Zip_Extractor.obj
+         Debug\Zlib_Inflater.obj
+         File_Extractor2010.vcxproj -> C:\Users\tiago.diogo\Downloads\vbam-code-final\project\vs2010_mfc\Debug\File_Extractor.lib
+     1>Done Building Project "C:\Users\tiago.diogo\Downloads\vbam-code-final\fex\File_Extractor2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.82

@@ -1,0 +1,44 @@
+﻿Build started 4/16/2015 14:29:15 .
+     1>Project "C:\Users\tiago.diogo\Documents\GitHub\AVE-2015\dependencies\libpng\project\vs2010\libpng.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\.. /I..\..\..\zlib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PNG_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"png.h" /Fp"Debug\libpng.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\pngerror.c
+         pngerror.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\.. /I..\..\..\zlib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PNG_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\png.c
+         png.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\.. /I..\..\..\zlib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PNG_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"png.h" /Fp"Debug\libpng.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\pngget.c ..\..\pngmem.c ..\..\pngpread.c ..\..\pngread.c ..\..\pngrio.c ..\..\pngrtran.c ..\..\pngrutil.c ..\..\pngset.c ..\..\pngtrans.c ..\..\pngwio.c ..\..\pngwrite.c ..\..\pngwtran.c ..\..\pngwutil.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+         pngrutil.c
+         pngset.c
+         pngtrans.c
+         pngwio.c
+         pngwrite.c
+         pngwtran.c
+         pngwutil.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\tiago.diogo\Documents\GitHub\AVE-2015\vbam-code-1231-trunk\project\vs2010_mfc\Debug\libpng.lib" /NOLOGO Debug\png.obj
+         Debug\pngerror.obj
+         Debug\pngget.obj
+         Debug\pngmem.obj
+         Debug\pngpread.obj
+         Debug\pngread.obj
+         Debug\pngrio.obj
+         Debug\pngrtran.obj
+         Debug\pngrutil.obj
+         Debug\pngset.obj
+         Debug\pngtrans.obj
+         Debug\pngwio.obj
+         Debug\pngwrite.obj
+         Debug\pngwtran.obj
+         Debug\pngwutil.obj
+         libpng.vcxproj -> C:\Users\tiago.diogo\Documents\GitHub\AVE-2015\vbam-code-1231-trunk\project\vs2010_mfc\Debug\libpng.lib
+     1>Done Building Project "C:\Users\tiago.diogo\Documents\GitHub\AVE-2015\dependencies\libpng\project\vs2010\libpng.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.92
